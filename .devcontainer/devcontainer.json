@@ -8,5 +8,6 @@
 
 	"forwardPorts": [
         1433
-    ]
+    ],
+			"remoteUser": "root"
 }
